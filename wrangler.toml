@@ -1,0 +1,7 @@
+name = "test-wrangler"
+type = "webpack"
+account_id = "21c4a672ebad28500b365999974bd35b"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
